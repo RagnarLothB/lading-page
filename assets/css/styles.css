@@ -189,6 +189,9 @@
 }
 
 @media (max-width: 800px) {
+    .form-grid {
+        margin-right: 3rem;
+    }
     .intro-content, .grid {
         margin-left: 2rem;
         margin-right: 2rem;
